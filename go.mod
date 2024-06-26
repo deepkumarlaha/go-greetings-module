@@ -1,3 +1,3 @@
-module github.com/yourusername/greeting
+module github.com/deepkumarlaha/greeting
 
 go 1.22.0
